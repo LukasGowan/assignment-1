@@ -286,7 +286,7 @@ function HeroSection() {
             marginBottom: "0.25rem",
           }}
         >
-          Alex Chen
+          Lukas Gowan
         </h1>
         <h1
           style={{
